@@ -14,5 +14,6 @@
             get { return this.balance; }
             set { this.balance = value; }
         }
+
     }
 }
